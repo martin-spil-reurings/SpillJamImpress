@@ -238,6 +238,14 @@ blockquote span {
 	-webkit-animation-delay: 28s;  
 }
 
+.present video {
+    opacity: 1;
+}
+
+.past video {
+    opacity: 0.25;
+}
+
 @-webkit-keyframes throb {  
     from {
     	margin-top: 0;
