@@ -246,6 +246,10 @@ blockquote span {
     opacity: 0.25;
 }
 
+.doneThat {
+    text-decoration: line-through;
+}
+
 @-webkit-keyframes throb {  
     from {
     	margin-top: 0;
